@@ -3,13 +3,13 @@
 # Technologies
 Web Client
 * React 
-   * React functional components
-   * React Hooks
-    * useState
-    * useEffect
-    * useMemo
-    * useTable
-    * useWebSocket
+    * React functional components
+    * React Hooks
+        * useState
+        * useEffect
+        * useMemo
+        * useTable
+        * useWebSocket
     
 WebSocket Server
 * WildFly
