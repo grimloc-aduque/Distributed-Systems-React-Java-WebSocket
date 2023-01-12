@@ -9,10 +9,12 @@ Web Client: React
     * useTable
     * useWebSocket
     
-WebSocket Server
+WebSocket Server:
+
 Java
 * java.util
 * javax.websocket
+
 WildFly
 
 # Web Client
