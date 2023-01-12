@@ -19,7 +19,8 @@ WebSocket Server
 
 # Web Client
 Reactive table that keeps track of items on stock among all users.
-<img src="https://github.com/grimloc-aduque/Distributed-Systems-React-Java-WebSocket/blob/main/git_images/web_client.png" style="width:400px;"/>
+
+<img src="https://github.com/grimloc-aduque/Distributed-Systems-React-Java-WebSocket/blob/main/git_images/web_client.png" style="width:600px;"/>
 
 
 # WebSocket Server
