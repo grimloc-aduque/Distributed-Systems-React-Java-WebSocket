@@ -1,15 +1,17 @@
 # Distributed-Systems-React-Java-WebSocket
 
 # Technologies
-Web Client: React
-* React Hooks
-    * useState
-    * useEffect
-    * useMemo
-    * useTable
-    * useWebSocket
+Web Client
+* React 
+   * React functional components
+   * React Hooks
+         * useState
+         * useEffect
+         * useMemo
+         * useTable
+         * useWebSocket
     
-WebSocket Server:
+WebSocket Server
 * WildFly
 * Java
    * java.util
