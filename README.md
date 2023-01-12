@@ -11,11 +11,11 @@ Web Client: React
     
 WebSocket Server:
 
+WildFly
+
 Java
 * java.util
 * javax.websocket
-
-WildFly
 
 # Web Client
 Reactive table that keeps track of items on stock among all users
