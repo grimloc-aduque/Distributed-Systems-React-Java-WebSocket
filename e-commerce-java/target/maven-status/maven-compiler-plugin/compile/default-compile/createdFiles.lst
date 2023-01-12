@@ -1,0 +1,5 @@
+com\hw4\commerce\DataStore.class
+com\hw4\commerce\ItemsDecoder.class
+com\hw4\commerce\WsServer.class
+com\hw4\commerce\Item.class
+com\hw4\commerce\ItemsEncoder.class

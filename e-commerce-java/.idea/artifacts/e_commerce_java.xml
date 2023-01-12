@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="e-commerce-java">
+    <output-path>$PROJECT_DIR$/target/artifacts/e_commerce_java</output-path>
+    <root id="archive" name="e-commerce-java.war" />
+  </artifact>
+</component>
